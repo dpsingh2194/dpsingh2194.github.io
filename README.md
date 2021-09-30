@@ -8,7 +8,7 @@
 	I have held various positions in the IT field. My first job was a desktop support student technician at Grand Valley where I worked on setting up instructor stations, re-imaging computers, and setting up printers. I then got my first internship at Meijer as a software developer. 
 	In this internship I developed a web application in C# about retrieving all on-prem applications. My second internship was with Stellantis. In this internship I did some linux administration and product evaluation of a new software that was going to be later implemented onto linux computers.
 
-This is the link to my teams github page: [Project URL][https://kondaa1.github.io/GVSU-CIS641-Nidhyana/]
+This is the link to my teams github page: [Project URL](https://kondaa1.github.io/GVSU-CIS641-Nidhyana/)
 
 # Term Project
 
