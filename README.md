@@ -6,41 +6,10 @@
 * Another interest I have is learning about management techniques and new ways of managing a team, as this is what I want to do in the future.
 ## Technical Background
 	I have held various positions in the IT field. My first job was a desktop support student technician at Grand Valley where I worked on setting up instructor stations, re-imaging computers, and setting up printers. I then got my first internship at Meijer as a software developer. 
-	In this internship I developed a web application in C# about retrieving all on-prem applications. My second internship was with Stellantis. In this internship I did some linux administration and product evaluation of a new software that was going to be later implemented onto linux computers. </br>
+	In this internship I developed a web application in C# about retrieving all on-prem applications. My second internship was with Stellantis. In this internship I did some linux administration and product evaluation of a new software that was going to be later implemented onto linux computers.
 
-    
-You can use the [editor on GitHub](https://github.com/dpsingh2194/dpsingh2194.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is the link to my teams github page: [Project URL][https://kondaa1.github.io/GVSU-CIS641-Nidhyana/]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Term Project
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dpsingh2194/dpsingh2194.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For this term project we will be creating a website. This website will be a employment management system that will help local small businesses in the Grand Rapids region to find employees. The point of this website is to match employees and employers together based on needs and qualifications. This will also help employees who are seeking to find work for a small business and match them. The goal of this website is to bring down the unemployment rate in Grand Rapids.
