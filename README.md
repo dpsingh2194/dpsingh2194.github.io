@@ -12,4 +12,4 @@ This is the link to my teams github page: [Project URL](https://kondaa1.github.i
 
 # Term Project
 
-For this term project we will be creating a website. This website will be a employment management system that will help local small businesses in the Grand Rapids region to find employees. The point of this website is to match employees and employers together based on needs and qualifications. This will also help employees who are seeking to find work for a small business and match them. The goal of this website is to bring down the unemployment rate in Grand Rapids.
+For this term project we will be creating a website. This website will be a employment management system that will help local small businesses in the Grand Rapids region to find employees. The point of this website is to match employees and employers together based on needs and qualifications. Employers can search for jobs and see the various opportunities for jobs available in GR. This will also help employees who are seeking to find work for a small business and match them. The goal of this website is to bring down the unemployment rate in Grand Rapids.
